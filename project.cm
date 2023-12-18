@@ -1,3 +1,4 @@
+
 let str = prompt('Введите строку');
 console.log(str);
 let strUpperCase = str.toUpperCase();
