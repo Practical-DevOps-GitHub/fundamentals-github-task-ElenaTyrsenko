@@ -1,3 +1,4 @@
+
 let str = prompt('Введите строку');
 console.log(str);
 let strUpperCase = str.toUpperCase();
@@ -18,3 +19,5 @@ arrDouble.forEach(function(elem){
 console.log(result);
 for (let key in result)
 alert ('Элемент: ' + key + ' повторяется ' + result[key] + 'раз(а)');
+
+
